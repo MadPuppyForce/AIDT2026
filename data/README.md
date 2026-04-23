@@ -85,7 +85,7 @@ project_root/
 ```
 
 Important:
-
+* Create the `data/raw/` folder manually before placing the files (it is not included in the repository).
 * Do not rename the files.
 * Keep the directory structure exactly as shown to ensure reproducibility.
 
