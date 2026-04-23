@@ -39,6 +39,7 @@ mon-papier-repro/
 ├── pyproject.toml
 ├── uv.lock
 ├── README.md
+├── LICENSE.txt
 │
 ├── data/
 │   ├── raw/              # original datasets
