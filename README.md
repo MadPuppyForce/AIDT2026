@@ -1,10 +1,9 @@
 # Reproduction code for
 
 **“A relational evaluation framework for recommender systems: assessing usefulness and coherence through item relationships”**
-Marie Griffon, Nicolas Delestre, Maxime Gueriau,
-Artificial Intelligence for Digital Transformations, 2026
+Marie Griffon, Nicolas Delestre, Maxime Gueriau, 2026
 
-[Paper link]
+% [Paper link]
 
 ---
 
