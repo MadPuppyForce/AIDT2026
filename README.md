@@ -3,7 +3,7 @@
 **“A relational evaluation framework for recommender systems: assessing usefulness and coherence through item relationships”**
 Marie Griffon, Nicolas Delestre, Maxime Gueriau, 2026
 
-% [Paper link]
+[Paper link]
 
 ---
 
@@ -210,7 +210,6 @@ If you use this code, please cite:
 @article{griffon2026relational,
   title={A relational evaluation framework for recommender systems: assessing usefulness and coherence through item relationships},
   author={Griffon, Marie and Delestre, Nicolas and Gueriau, Maxime},
-  journal={Artificial Intelligence for Digital Transformations},
   year={2026}
 }
 ```
