@@ -1,0 +1,17 @@
+[project]
+name = "AIDT-2026"
+version = "0.1.0"
+description = "Reproduction code for the results of paper A relational evaluation framework for recommender systems: assessing usefulness and coherence through item relationships."
+readme = "README.md"
+requires-python = "==3.10.12"
+authors = [
+  { name = "Marie Griffon", email = "marie.griffon27@gmail.com" }
+]
+dependencies = [
+  "numpy>=1.23",
+  "pandas>=2.0",
+  "scipy>=1.10",
+  "scikit-learn>=1.3",
+  "matplotlib>=3.7",
+  "seaborn>=0.12",
+]
