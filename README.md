@@ -14,12 +14,7 @@ This repository contains the code used to reproduce the experiments presented in
 
 > *A relational evaluation framework for recommender systems: assessing usefulness and coherence through item relationships.*
 
-The goal of this work is to evaluate recommender systems through **item relationships**, using metrics based on:
-
-* **Substitutability**
-* **Complementarity**
-* **Usefulness**
-* **Intra-List Relationships (ILR)**
+The goal of this work is to introduce a relational evaluation framework for recommender systems. We proposed two complementary metrics, **Usefulness** and **Intra-List Relationships** (ILR), designed to capture respectively the alignment of recommendations with the user’s session context and the internal relational coherence of recommendation sets. Both metrics rely on item–item relationships modeled through **substitutability** and **complementarity** scores derived from user session interactions.
 
 The repository provides scripts to:
 
