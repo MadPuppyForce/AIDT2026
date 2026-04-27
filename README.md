@@ -208,7 +208,7 @@ If you use this code, please cite:
 
 ```
 @article{griffon2026relational,
-  title={A relational evaluation framework for recommender systems: assessing usefulness and coherence through item relationships},
+  title={An approach for evaluating recommender systems: assessing usefulness and coherence through item relationships},
   author={Griffon, Marie and Delestre, Nicolas and Gueriau, Maxime},
   year={2026}
 }
