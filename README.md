@@ -1,6 +1,6 @@
 # Reproduction code for
 
-**“A relational evaluation framework for recommender systems: assessing usefulness and coherence through item relationships”**
+**“An approach for evaluating recommender systems: assessing usefulness and coherence through item relationships”**
 Marie Griffon, Nicolas Delestre, Maxime Gueriau, 2026
 
 [Paper link]
@@ -11,9 +11,9 @@ Marie Griffon, Nicolas Delestre, Maxime Gueriau, 2026
 
 This repository contains the code used to reproduce the experiments presented in the paper:
 
-> *A relational evaluation framework for recommender systems: assessing usefulness and coherence through item relationships.*
+> *An approach for evaluating recommender systems: assessing usefulness and coherence through item relationships*
 
-The goal of this work is to introduce a relational evaluation framework for recommender systems. We proposed two complementary metrics, **Usefulness** and **Intra-List Relationships** (ILR), designed to capture respectively the alignment of recommendations with the user’s session context and the internal relational coherence of recommendation sets. Both metrics rely on item–item relationships modeled through **substitutability** and **complementarity** scores derived from user session interactions.
+The goal of this work is to introduce an approach for evaluating recommender systems. We proposed two complementary metrics, **Usefulness** and **Intra-List Relationships** (ILR), designed to capture respectively the alignment of recommendations with the user’s session context and the internal relational coherence of recommendation sets. Both metrics rely on item–item relationships modeled through **substitutability** and **complementarity** scores derived from user session interactions.
 
 The repository provides scripts to:
 
